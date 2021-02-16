@@ -1,4 +1,4 @@
-package com.why.template.compose
+package com.why.material.components.basics
 
 import io.kotest.core.spec.style.FreeSpec
 import io.kotest.matchers.ints.shouldBeExactly

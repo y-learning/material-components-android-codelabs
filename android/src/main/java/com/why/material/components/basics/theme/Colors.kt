@@ -1,8 +1,7 @@
-package com.why.template.compose.theme
+package com.why.material.components.basics.theme
 
 import androidx.compose.ui.graphics.Color
 
-// TODO: Make your own colors
 val Red200 = Color(0xfff297a2)
 val Red800 = Color(0xffd00036)
 

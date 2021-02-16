@@ -1,3 +1,3 @@
-// TODO: Change the project name
-rootProject.name = "Jetpack Compose Template"
+rootProject.name = "Material Components (MDC)"
+
 include(":android")
